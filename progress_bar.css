@@ -56,3 +56,6 @@
   border-color: #38B8C1;
   color: #38B8C1;
 }
+.progress-bar li.done::after {
+  background: #38B8C1;
+}
